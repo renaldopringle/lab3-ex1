@@ -1,8 +1,8 @@
 import smtplib
 
-fromaddr = 'pigeonflight@gmail.com'
+fromaddr = 'rapchristoff@gmail.com'
 
-toaddr  = 'david@alteroo.com'
+toaddr  = 'renaldopringle@yahoo.com'
 
 message = """From: {} <{}>
 
@@ -26,9 +26,9 @@ Subject: {}
 
 # Credentials (if needed)
 
-username = 'pigeonflight@gmail.com'
+username = 'myemail@gmail.com'
 
-password = '{youremailapppassword}''
+password = 'mypassword'
 
 # The actual mail send
 
